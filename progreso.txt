@@ -1,2 +1,4 @@
+Se ha creado la rama funcionalidad_1_AGA
 Se ha creado la rama funcionalidad_1_AJS
+Se ha creado la rama funcionalidad_1_jjmc
 Se ha creado la rama control_procesos_1
